@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Actualmente estoy realizando el bootcamp devops engineer en educacion IT. <3
+Me interesa participar en proyectos de Nube.
+Puedo responder y colaborar en linux.
+🌟Estos son mis primeros pasos en el mundo de la tecnologia.🌟
 <!--
 **Quimlopbor/Quimlopbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
